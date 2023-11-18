@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 my gorgeous friends on the internet</h1>
 <h3 align="center"><b>I'm Riju, from India 🇮🇳. Working as a Software developer 🚀. I've been using GitHub to host my repos for many years.</b></h3>
 
-- 🔭 I’m currently working on [Digital Educational Projects so that widely learners can grab knowledge.]
+- 🔭 I’m currently working on **[Digital Educational Projects so that widely learners can grab knowledge.]**
 
 - 🌱 I’m currently learning **AWS & Docker**
 
@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **in building helpful and friendly dev communities**
 
+- 💬 Ask me about **JavaScript & Node :)**
+
 <!-- - 👨‍💻 All of my projects are available at [#] -->
 
-- 💬 Ask me about **JavaScript :) & Node**
+<!-- - 📄 Know about my experiences [#] -->
 
 - 📫 Reach out to me at - **rejuuzzaman44@gmail.com**
-
-<!-- - 📄 Know about my experiences [#] -->
 
 - ⚡ Fun fact **Football & Movie freak**
 
