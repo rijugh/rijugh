@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋 my gorgeous friends on the internet</h1>
 <h3 align="center"><b>I'm Riju, from India 🇮🇳. Working as a Software developer 🚀. I've been using GitHub to host my repos for many years.</b></h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rijugh&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="rijugh" /> </p> <space><space>
+
 - 🔭 I’m currently working on **[Digital Educational Projects so that widely learners can grab knowledge.]**
 
 - 🌱 I’m currently learning **AWS & Docker**
@@ -33,6 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijugh&" alt="rijugh" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rijugh&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="rijugh" /> </p> <space><space>
+<space><space><space><space>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijugh" alt="rijugh" /></a> </p>
