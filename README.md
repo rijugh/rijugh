@@ -1,25 +1,21 @@
-<h1 align="center">Hi 👋 my gorgeous friends on the internet, I'm Riju</h1>
-<h3 align="center">I'm from India 🇮🇳 working as a Full Stack Developer in various organization.</h3>
+<h1 align="center">Hey 👋 my gorgeous friends on the internet</h1>
+<h3 align="center"><b>I'm Riju, from India 🇮🇳. Working as a Software developer 🚀. I've been using GitHub to host my repos for many years.</b></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rijugh&label=Profile%20views&color=0e75b6&style=flat" alt="rijugh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijugh" alt="rijugh" /></a> </p>
-
-- 🔭 I’m currently working on [Digital Educational Projects so that widely learners can grab knowledge.](#)
+- 🔭 I’m currently working on [Digital Educational Projects so that widely learners can grab knowledge.]
 
 - 🌱 I’m currently learning **AWS & Docker**
 
-- 👯 I’m looking to collaborate on **to create efficient tools or packegaes which makes dev's effort less.**
+- 👯 I’m looking to collaborate on **to create efficient user friendly tools or packeges which makes dev's effort less.**
 
 - 🤝 I’m looking for help with **in building helpful and friendly dev communities**
 
-- 👨‍💻 All of my projects are available at [#](#)
+<!-- - 👨‍💻 All of my projects are available at [#] -->
 
-- 💬 Ask me about **JavaScript :)**
+- 💬 Ask me about **JavaScript :) & Node**
 
-- 📫 Reach out to me at **rejuuzzaman44@gmail.com**
+- 📫 Reach out to me at - **rejuuzzaman44@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+<!-- - 📄 Know about my experiences [#] -->
 
 - ⚡ Fun fact **Football & Movie freak**
 
@@ -36,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rijugh&show_icons=true&locale=en" alt="rijugh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijugh&" alt="rijugh" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rijugh&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="rijugh" /> </p> <space><space>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijugh" alt="rijugh" /></a> </p>
